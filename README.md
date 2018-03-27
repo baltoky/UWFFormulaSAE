@@ -1,5 +1,5 @@
 # UWFFormulaSAE
 A Repository for the FormuaSAE team.
  Current team: 
-  Jarrod Resmondo, Cesar Santiago
+  <i>Jarrod Resmondo, Cesar Santiago, Josh Johnson.</i>
   
