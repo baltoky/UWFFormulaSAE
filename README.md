@@ -2,14 +2,19 @@
 
 A Repository for the FormuaSAE team.<br/>
 
-<div style="margin-left: 20px;">
+<div>
  <b>
-  Current team:<br/><i style="max-width: 60px;margin-left: 20px;">Jarrod Resmondo, Cesar Santiago, Josh Johnson.</i>
- </b><br />
+  Current team:<br/><i>Jarrod Resmondo (Computer and Electrical Engineering.)<br />
+	 Cesar Santiago (Computer Science.)<br />
+	 Josh Johnson (Mechanical Engineering.)<br />
+	 Jordan Campbel (Computer Science.)<br />
+	 Alan Ward (Computer Science).</i>
+ </b><br /><br />
 </div>
 
-<div style="max-width: 600px;">
+<div>
 	The initial files and rules of the competition are in the FSAE_Main folder, make sure to read those first.
 	The current draft for the car will also be there, further along there will be a FSAE_Software folder which will house the
-software for the project.
+software for the project.<br />
+	Also, let's try and kkep the team small for now. I think new members would dissipate the designs of the project and slow progress down. If you meet someone that is interested in the project bring it to the group's attention and we can discuss the viability of a new member.
 </div>
