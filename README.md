@@ -3,13 +3,14 @@
 A Repository for the FormuaSAE team.<br/>
 
 <div>
- <b>
-  Current team:<br/><i>Jarrod Resmondo (Computer and Electrical Engineering.)<br />
-	 Cesar Santiago (Computer Science.)<br />
-	 Josh Johnson (Mechanical Engineering.)<br />
-	 Jordan Campbel (Computer Science.)<br />
-	 Alan Ward (Computer Science).</i>
- </b><br /><br />
+ <b><pre>
+  Current team:<br/><i>Jarrod Resmondo (Computer and Electrical Engineering.)
+	 Cesar Santiago (Computer Science.)
+	 Josh Johnson (Mechanical Engineering.)
+	 Jordan Campbel (Computer Science.)
+	 Alan Ward (Computer Science.)
+	 Samuel Mills (Physics).</i>
+ </pre></b><br /><br />
 </div>
 
 <div>
