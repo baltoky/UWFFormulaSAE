@@ -1,6 +1,6 @@
 # UWFFormulaSAE
 
-A Repository for the UWF FormulaSAE team.
+#### Please make sure to look at the _Projects_ tab!
 
 ### Current team:  
 
